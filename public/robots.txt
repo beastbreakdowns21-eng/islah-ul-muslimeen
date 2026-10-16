@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Canonical XML Sitemap for search engines
+Sitemap: https://islahulmuslimeen.org/sitemap.xml

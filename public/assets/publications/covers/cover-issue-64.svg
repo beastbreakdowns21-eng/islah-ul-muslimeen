@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 600" width="100%" height="100%">
+      <defs>
+        <linearGradient id="bg64" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#451A03" />
+          <stop offset="50%" stop-color="#78350F" />
+          <stop offset="100%" stop-color="#B45309" />
+        </linearGradient>
+      </defs>
+      <rect width="450" height="600" fill="url(#bg64)" />
+
+      <!-- Top Banner -->
+      <rect x="15" y="15" width="420" height="32" rx="4" fill="#292524" stroke="#D97706" stroke-width="1" />
+      <text x="225" y="35" fill="#FFFFFF" font-family="'Noto Nastaliq Urdu', serif, Arial" font-size="11" text-anchor="middle">میرا ارادہ صرف اصلاح کرنے کا ہے جہاں تک میرا بس ہے اور میری توفیق اللہ ہی کی طرف سے ہے۔ (القرآن)</text>
+
+      <!-- Masthead -->
+      <rect x="230" y="60" width="195" height="85" rx="8" fill="#002FA7" stroke="#FFFFFF" stroke-width="2" />
+      <text x="327" y="82" fill="#E2E8F0" font-family="sans-serif" font-weight="bold" font-size="11" text-anchor="middle" letter-spacing="1">دو ماہی AT-TAHIR</text>
+      <text x="327" y="125" fill="#F8FAFC" font-family="'Noto Nastaliq Urdu', serif" font-weight="bold" font-size="34" text-anchor="middle">الطاہر</text>
+
+      <!-- Cartouche -->
+      <rect x="230" y="152" width="195" height="42" rx="6" fill="#FEF08A" stroke="#CA8A04" stroke-width="1.5" />
+      <circle cx="250" cy="173" r="14" fill="#CA8A04" />
+      <text x="250" y="178" fill="#FFFFFF" font-family="sans-serif" font-weight="900" font-size="13" text-anchor="middle">64</text>
+      <text x="335" y="170" fill="#713F12" font-family="'Noto Nastaliq Urdu', serif, Arial" font-size="9.5" text-anchor="middle" font-weight="bold">ربیع الآخر 1433ھ بمطابق مارچ 2012ء</text>
+      <text x="335" y="186" fill="#854D0E" font-family="sans-serif" font-size="9" text-anchor="middle" font-weight="bold">Al-Tahir Issue 64 • March 2012</text>
+
+      <!-- Portrait Silhouette of Sheikh Sajjan Saeen -->
+      <g transform="translate(180, 240)">
+        <!-- Aura Circle -->
+        <circle cx="45" cy="110" r="100" fill="#FEF3C7" opacity="0.2" />
+        <!-- Turban & Silhouette -->
+        <path d="M 0 110 C 0 30, 90 30, 90 110 C 90 140, 0 140, 0 110 Z" fill="#F8FAFC" opacity="0.95" />
+        <ellipse cx="45" cy="110" rx="35" ry="45" fill="#FDBA74" />
+        <!-- White Cloak / Shawl -->
+        <path d="M -30 220 L 120 220 L 110 160 L -20 160 Z" fill="#FFFFFF" />
+      </g>
+
+      <!-- Bottom Tag -->
+      <rect x="40" y="535" width="370" height="40" rx="8" fill="#0F172A" opacity="0.95" stroke="#334155" />
+      <text x="225" y="553" fill="#F8FAFC" font-family="sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle">AL-TAHIR ISSUE 64 — MARCH 2012</text>
+      <text x="225" y="567" fill="#94A3B8" font-family="sans-serif" font-size="9" text-anchor="middle">Special Urs Mubarak Edition • Dargah Allahabad Sharif</text>
+    </svg>

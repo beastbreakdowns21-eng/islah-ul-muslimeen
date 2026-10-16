@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 600" width="100%" height="100%">
+      <defs>
+        <linearGradient id="bg77" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#FAF5EF" />
+          <stop offset="50%" stop-color="#F2E6D8" />
+          <stop offset="100%" stop-color="#C25E34" />
+        </linearGradient>
+        <linearGradient id="banner77" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#8A3E1B" />
+          <stop offset="100%" stop-color="#B84D20" />
+        </linearGradient>
+      </defs>
+      <!-- Background -->
+      <rect width="450" height="600" fill="url(#bg77)" />
+
+      <!-- Top Quranic Motto Header Bar -->
+      <rect x="15" y="15" width="420" height="32" rx="4" fill="url(#banner77)" />
+      <text x="225" y="35" fill="#FFFFFF" font-family="'Noto Nastaliq Urdu', serif, Arial" font-size="11" text-anchor="middle">میرا ارادہ صرف اصلاح کرنے کا ہے جہاں تک میرا بس ہے اور میری توفیق اللہ ہی کی طرف سے ہے۔ (القرآن)</text>
+
+      <!-- Minaret & Green Dome Silhouette Art -->
+      <path d="M 50 340 C 50 250, 160 250, 160 340 Z" fill="#2E7D32" opacity="0.9" />
+      <rect x="95" y="240" width="20" height="25" fill="#C99700" />
+      <circle cx="105" cy="235" r="5" fill="#C99700" />
+      <!-- Minaret -->
+      <rect x="42" y="160" width="24" height="180" fill="#E8F5E9" />
+      <polygon points="42,160 54,120 66,160" fill="#C99700" />
+      <circle cx="54" cy="115" r="4" fill="#C99700" />
+
+      <!-- Decorative Right Border Geometric Band -->
+      <g opacity="0.85">
+        <rect x="360" y="60" width="75" height="520" fill="#7C2D12" />
+        <path d="M 360 80 L 397 100 L 360 120 L 397 140 L 360 160 L 397 180 L 360 200 L 397 220 L 360 240 L 397 260 L 360 280 L 397 300 L 360 320 L 397 340 L 360 360 L 397 380 L 360 400 L 397 420 L 360 440 L 397 460 L 360 480 L 397 500 L 360 520 L 397 540 L 360 560" stroke="#FBBF24" stroke-width="2" fill="none" />
+      </g>
+
+      <!-- Official Masthead Box -->
+      <rect x="230" y="60" width="195" height="85" rx="8" fill="#002FA7" stroke="#FFFFFF" stroke-width="2" />
+      <text x="327" y="82" fill="#E2E8F0" font-family="sans-serif" font-weight="bold" font-size="11" text-anchor="middle" letter-spacing="1">Quarterly ATTAHIR</text>
+      <text x="327" y="125" fill="#F8FAFC" font-family="'Noto Nastaliq Urdu', 'Scheherazade New', serif" font-weight="bold" font-size="34" text-anchor="middle">الطاہر</text>
+
+      <!-- Issue & Date Cartouche -->
+      <rect x="230" y="152" width="195" height="42" rx="6" fill="#FDE047" stroke="#CA8A04" stroke-width="1.5" />
+      <circle cx="250" cy="173" r="14" fill="#CA8A04" />
+      <text x="250" y="178" fill="#FFFFFF" font-family="sans-serif" font-weight="900" font-size="13" text-anchor="middle">77</text>
+      <text x="335" y="170" fill="#713F12" font-family="'Noto Nastaliq Urdu', serif, Arial" font-size="9.5" text-anchor="middle" font-weight="bold">محرم الحرام 1438ھ بمطابق اکتوبر 2016ء</text>
+      <text x="335" y="186" fill="#854D0E" font-family="sans-serif" font-size="9" text-anchor="middle" font-weight="bold">Al-Tahir Issue 77 • October 2016</text>
+
+      <!-- Calligraphy Medallion -->
+      <g transform="translate(180, 200)">
+        <circle cx="0" cy="0" r="45" fill="#CA8A04" opacity="0.9" />
+        <circle cx="0" cy="0" r="40" fill="#854D0E" />
+        <text x="0" y="6" fill="#FEF08A" font-family="'Noto Nastaliq Urdu', serif" font-size="16" text-anchor="middle">محمد رسول اللہ</text>
+      </g>
+
+      <!-- Bottom Publisher Tag -->
+      <rect x="30" y="540" width="300" height="35" rx="6" fill="#FFFFFF" opacity="0.9" stroke="#CBD5E1" />
+      <text x="180" y="555" fill="#12247A" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">AL-TAHIR PUBLICATION ARCHIVE</text>
+      <text x="180" y="568" fill="#002FA7" font-family="sans-serif" font-size="8.5" text-anchor="middle">Jamaat Islah-ul-Muslimeen • Dargah Allahabad Sharif</text>
+    </svg>

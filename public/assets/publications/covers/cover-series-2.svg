@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 600" width="100%" height="100%">
+      <defs>
+        <radialGradient id="gradSeries2" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#166534" />
+          <stop offset="70%" stop-color="#14532D" />
+          <stop offset="100%" stop-color="#052E16" />
+        </radialGradient>
+      </defs>
+      <!-- Archival Green Background -->
+      <rect width="450" height="600" fill="url(#gradSeries2)" />
+
+      <!-- Inner Border -->
+      <rect x="20" y="20" width="410" height="560" fill="none" stroke="#86EFAC" stroke-width="2" opacity="0.6" />
+
+      <!-- Top Quranic Verse -->
+      <text x="225" y="55" fill="#DCFCE7" font-family="'Scheherazade New', serif" font-size="18" font-weight="bold" text-anchor="middle">قَدْ اَفْلَحَ مَنْ زَكّٰىهَا وَقَدْ خَابَ مَنْ دَسّٰىهَا</text>
+      <text x="225" y="78" fill="#BBF7D0" font-family="'Noto Nastaliq Urdu', serif" font-size="10" text-anchor="middle">تحقیق کامیاب ہوا جس نے اپنے نفس کو پاک کیا اور نامراد ہوا جس نے اسے خاک میں ملایا</text>
+
+      <!-- Central Ornamental Medallion -->
+      <g transform="translate(225, 270)">
+        <circle cx="0" cy="0" r="130" fill="#FFFFFF" opacity="0.95" />
+        <circle cx="0" cy="0" r="118" fill="none" stroke="#15803D" stroke-width="6" stroke-dasharray="8 6" />
+        <circle cx="0" cy="0" r="95" fill="#1E3A8A" />
+        <!-- Series Badge -->
+        <ellipse cx="-45" cy="-45" rx="20" ry="14" fill="#22C55E" />
+        <text x="-45" y="-40" fill="#FFFFFF" font-family="'Noto Nastaliq Urdu', serif" font-size="9" text-anchor="middle">سلسلہ نمبر 2</text>
+        <!-- Large Masthead -->
+        <text x="0" y="25" fill="#FFFFFF" font-family="'Noto Nastaliq Urdu', serif" font-weight="bold" font-size="62" text-anchor="middle">الطاہر</text>
+      </g>
+
+      <!-- Publication Subtitle -->
+      <rect x="100" y="440" width="250" height="38" rx="6" fill="#1E3A8A" stroke="#86EFAC" stroke-width="1.5" />
+      <text x="225" y="464" fill="#FFFFFF" font-family="'Noto Nastaliq Urdu', serif" font-size="16" text-anchor="middle">شعبۂ نشر و اشاعت</text>
+
+      <!-- Bottom Organization Title -->
+      <text x="225" y="520" fill="#DCFCE7" font-family="'Noto Nastaliq Urdu', serif" font-size="22" font-weight="bold" text-anchor="middle">روحانی طلبہ جماعت پاکستان</text>
+      <text x="225" y="555" fill="#86EFAC" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">ALTAHIR SERIES 2 — JANUARY 1986</text>
+    </svg>

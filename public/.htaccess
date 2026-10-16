@@ -1,0 +1,22 @@
+# Apache rewrite rules for HTML5 PushState Single Page Application (Hostinger, cPanel, Apache)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteRule . /index.html [L]
+</IfModule>
+
+# Caching and MIME Types
+<IfModule mod_headers.c>
+  # Cache static assets for performance
+  <FilesMatch "\.(css|js|png|jpg|jpeg|svg|pdf|webp|woff|woff2)$">
+    Header set Cache-Control "max-age=2592000, public"
+  </FilesMatch>
+  # Do not cache index.html to ensure instant updates
+  <FilesMatch "^index\.html$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+  </FilesMatch>
+</IfModule>

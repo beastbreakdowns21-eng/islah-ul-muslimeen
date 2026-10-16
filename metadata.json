@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix  Islah-ul-Muslimeen",
+  "description": "Spritual peer sajjan sain qibla murshid peer mitha sain sohna sain zikar e qalbi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

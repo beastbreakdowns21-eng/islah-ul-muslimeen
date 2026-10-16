@@ -1,0 +1,142 @@
+[
+  {
+    "issueNumber": 43,
+    "id": "at-tahir-issue-43",
+    "slug": "issue-43",
+    "title": "Al-Tahir — Issue 43",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 43)",
+    "dateUrdu": "محرم الحرام ۱۴۲۸ھ بمطابق فروری ۲۰۰۷ع",
+    "articleCount": 14,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 44,
+    "id": "at-tahir-issue-44",
+    "slug": "issue-44",
+    "title": "Al-Tahir — Issue 44",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 44)",
+    "dateUrdu": "ربیع الاول ۱۴۲۸ھ بمطابق اپریل ۲۰۰۷ع",
+    "articleCount": 17,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 45,
+    "id": "at-tahir-issue-45",
+    "slug": "issue-45",
+    "title": "Al-Tahir — Issue 45",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 45)",
+    "dateUrdu": "جمادی الاول ۱۴۲۸ھ بمطابق جولائی ۲۰۰۷ع",
+    "articleCount": 17,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 46,
+    "id": "at-tahir-issue-46",
+    "slug": "issue-46",
+    "title": "Al-Tahir — Issue 46",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 46)",
+    "dateUrdu": "شعبان 1428ھ بمطابق اگست 2007ع",
+    "articleCount": 16,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 47,
+    "id": "at-tahir-issue-47",
+    "slug": "issue-47",
+    "title": "Al-Tahir — Issue 47",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 47)",
+    "dateUrdu": "رمضان 1428ھ بمطابق اکتوبر 2007ع",
+    "articleCount": 15,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 48,
+    "id": "at-tahir-issue-48",
+    "slug": "issue-48",
+    "title": "Al-Tahir — Issue 48",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 48)",
+    "dateUrdu": "شمارہ 48، ذیقعد 1428ھ بمطابق دسمبر 2007ع",
+    "articleCount": 23,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 49,
+    "id": "at-tahir-issue-49",
+    "slug": "issue-49",
+    "title": "Al-Tahir — Issue 49",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 49)",
+    "dateUrdu": "شمارہ 49، محرم 1429ھ بمطابق فروری 2008ع",
+    "articleCount": 18,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 50,
+    "id": "at-tahir-issue-50",
+    "slug": "issue-50",
+    "title": "Al-Tahir — Issue 50",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 50)",
+    "dateUrdu": "شمارہ 50، ربیع الاول 1429ھ بمطابق اپریل 2008ع",
+    "articleCount": 17,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 51,
+    "id": "at-tahir-issue-51",
+    "slug": "issue-51",
+    "title": "Al-Tahir — Issue 51",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 51)",
+    "dateUrdu": "شمارہ 51، جمادی الاول 1429ھ بمطابق جون 2008ع",
+    "articleCount": 14,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 52,
+    "id": "at-tahir-issue-52",
+    "slug": "issue-52",
+    "title": "Al-Tahir — Issue 52",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 52)",
+    "dateUrdu": "شمارہ 52، رمضان المبارک 1429ھ بمطابق ستمبر 2008ع",
+    "articleCount": 16,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 53,
+    "id": "at-tahir-issue-53",
+    "slug": "issue-53",
+    "title": "Al-Tahir — Issue 53",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 53)",
+    "dateUrdu": "شمارہ 53، ذوالقعدہ 1429ھ بمطابق نومبر 2008ع",
+    "articleCount": 15,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 54,
+    "id": "at-tahir-issue-54",
+    "slug": "issue-54",
+    "title": "Al-Tahir — Issue 54",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 54)",
+    "dateUrdu": "شمارہ 54، ربیع الاول 1430ھ بمطابق مارچ 2009ع",
+    "articleCount": 16,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 55,
+    "id": "at-tahir-issue-55",
+    "slug": "issue-55",
+    "title": "Al-Tahir — Issue 55",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 55)",
+    "dateUrdu": "شمارہ 55، جمادی الآخر 1430ھ بمطابق جون 2009ع",
+    "articleCount": 17,
+    "type": "text-archive"
+  },
+  {
+    "issueNumber": 56,
+    "id": "at-tahir-issue-56",
+    "slug": "issue-56",
+    "title": "Al-Tahir — Issue 56",
+    "titleUrdu": "ماہنامہ الطاہر (شمارہ 56)",
+    "dateUrdu": "شمارہ 56، ذوالقعدہ 1430ھ بمطابق نومبر 2009ع",
+    "articleCount": 0,
+    "type": "text-archive"
+  }
+]
